@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  height: 800px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.AppHeader {
+  color: white;
+  
+}

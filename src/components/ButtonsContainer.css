@@ -1,0 +1,7 @@
+.button-container{
+    width:auto;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    margin-top: 60px;
+}
